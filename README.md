@@ -43,5 +43,5 @@ Time-based details (Month, Day of Week)
 
 6. Screenshots / Demos
 
-📷 Dashboard: Overall Mobile Sales Performance
-(First image – with multiple brands and overall performance KPIs)
+Show what the dashboard looks like.
+Example: ![Dashbord Preview](https://github.com/Anshu-kumar-analyst/Mobile-Sales-Performance-Dashboard/blob/main/1.PNG)
