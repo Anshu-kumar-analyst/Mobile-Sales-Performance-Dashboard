@@ -1,4 +1,6 @@
 # Mobile Sales & Performance Dashboard
+ This project is an interactive Power BI dashboard designed to analyze Motorola mobile sales data across India. The dashboard provides actionable insights into total sales, quantity, transactions, customer ratings, and payment methods. It also highlights brand-wise and city-wise performance trends with filters for deeper analysis by model, payment type, and time period.
+ ---
 # Recommended Structure and Order
 
 1. Project Title / Headline
